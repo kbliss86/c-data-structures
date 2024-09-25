@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\bin\Debug\c-data-structures.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\bin\Debug\c-data-structures.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\bin\Debug\c-data-structures.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\obj\Debug\c-data-structures.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\obj\Debug\c-data-structures.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\obj\Debug\c-data-structures.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-data-structures\c-data-structures\obj\Debug\c-data-structures.pdb
